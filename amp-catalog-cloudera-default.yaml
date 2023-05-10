@@ -1,7 +1,7 @@
 name: Cloudera
 
 entries:
-  - title: LLM Chatbot Augmented with Enterprise Data2
+  - title: LLM Chatbot Augmented with Enterprise Data3
     label: llm-chatbot
     short_description: |
         Build a Retrieval Augmented Generation (RAG) Question-Answer Large
